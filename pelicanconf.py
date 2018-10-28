@@ -21,12 +21,12 @@ AUTHOR_FEED_RSS = None
 # Blogroll
 LINKS = (('Pelican', 'http://getpelican.com/'),
          ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+         ('Jinja2', 'http://jinja.pocoo.org/'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('Twitter', 'https://twitter.com/OpenDataAlex'),
+          ('LinkedIn', 'https://www.linkedin.com/in/alexmeadows/'),
+          ('SllideShare', 'https://www.slideshare.net/dba_alex'),)
 
 DEFAULT_PAGINATION = 10
 
@@ -34,3 +34,15 @@ DEFAULT_PAGINATION = 10
 #RELATIVE_URLS = True
 
 THEME = "/home/alexmeadows/PycharmProjects/pelican-themes/pelican-twitchy"
+
+# pelican-twitchy feature settings
+EXPAND_LATEST_ON_INDEX = True
+OPEN_GRAPH = False
+OPEN_GRAPH_IMAGE = False
+SHARE = True
+
+DISPLAY_PAGES_ON_MENU = True
+DISPLAY_CATEGORIES_ON_MENU = True
+DISPLAY_TAGS_ON_MENU = True
+
+CC_LICENSE = 'CC-BY-SA-ND-NC'
