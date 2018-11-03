@@ -1,4 +1,4 @@
-Title: Setting Up New Blog
+Title: Setting Up New Blog - Pelican Edition
 Date: 2018-10-27 11:16
 Category: Updates
 
