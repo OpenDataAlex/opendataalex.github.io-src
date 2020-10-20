@@ -1,6 +1,6 @@
-Title:  Welcome To BlueFire
+Title: Welcome To BlueFire
 Date: 2008-04-10 22:32:46
-Category:  About, Archive
+Category: Archive
 
 Well, if anyone is reading this allow me to say, welcome!
 

@@ -1,6 +1,7 @@
-Title:  Magento, GoDaddy Fun
+Title: Magento, GoDaddy Fun
 Date: 2008-06-07 10:34:16
-Category:  Magento, WebDev, Archive
+Category: Archive
+Tags: Magento, WebDev
 
 So I'm starting to work with e-Commerce systems, and picked Magento because it has a very robust feature set (I still 
 want to check out Zen Cart, for it also looks promising) .  I've about got my current customer's store up, just waiting 

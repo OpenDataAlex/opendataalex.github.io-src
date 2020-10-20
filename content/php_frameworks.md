@@ -1,6 +1,7 @@
-Title:  PHP Frameworks
+Title: PHP Frameworks
 Date:  2008-06-14 07:35:14
-Category:  WebDev, PHP, Archive
+Category: Archive
+Tags: WebDev, PHP
 
 So at work, I've started moving things into the 21st century tech-wise - implementing a software bug/feature tracking 
 system and working on installing a subversion server (even if I am the only programmer there, it'll be a big help I 

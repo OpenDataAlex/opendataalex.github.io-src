@@ -1,6 +1,7 @@
-Title:  Fighting IE CSS Bugs
+Title: Fighting IE CSS Bugs
 Date: 2008-05-10 15:05:29
-Category:  Front End, Archive
+Category: Archive
+Tags: front end
 
 Well, it's been another busy week.  I just spent the last hour fighting with Internet Explorer.  Fortunately we're back 
 on speaking terms - for now anyway.  I'm working on a customer site that uses css floats.  Well and good with Firefox - 

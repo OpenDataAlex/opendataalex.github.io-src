@@ -1,6 +1,7 @@
-Title:  MySQL Case
+Title: MySQL Case
 Date:  2009-04-11 10:35:23
-Category:  MySQL, Archive
+Category: Archive
+Tags: MySQL
 
 I was in the midst of developing a system to track OTIF (On Time In Full)  deliveries to my employer's customers.  I 
 wanted to be able to take the data and use it with a nice open source sparkline tool found [here](http://sparkline.org/).

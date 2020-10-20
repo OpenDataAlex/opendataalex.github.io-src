@@ -1,6 +1,6 @@
-Title:  Sparklines - the Cheetah of Line Charts
+Title: Sparklines - the Cheetah of Line Charts
 Date:  2008-04-27 10:38:29
-Category:  Data Visualization, Archive
+Category: Data Visualization
 
 So a large chunk of my daily job consists of finding better ways of viewing  and obtaining data.  Being the geeky 
 individual I am, I do my best to push Open Source initiatives (as a real quick aside, anyone else had the extreme fun of

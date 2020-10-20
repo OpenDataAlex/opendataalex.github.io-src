@@ -1,6 +1,6 @@
 Title: Setting Up New Blog
 Date: 2008-04-10 20:06:30
-Category: Updates, Archive
+Category: Archive
 
 
 This blog will cover quite a few facets:

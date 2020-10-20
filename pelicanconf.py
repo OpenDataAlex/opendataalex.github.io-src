@@ -1,5 +1,5 @@
+#!/usr/bin/env python
 # -*- coding: utf-8 -*- #
-from __future__ import unicode_literals
 
 AUTHOR = 'Alex Meadows'
 SITENAME = "OpenDataAlex's Blog"
@@ -7,7 +7,7 @@ SITEURL = ''
 
 PATH = 'content'
 
-TIMEZONE = 'America/New_York'
+TIMEZONE = 'US/Eastern'
 
 DEFAULT_LANG = 'en'
 
@@ -33,9 +33,8 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
-THEME = "/home/alexmeadows/PycharmProjects/pelican-themes/pelican-twitchy"
+THEME = "/home/ameadows/PycharmProjects/pelican-twitchy"
 
-# pelican-twitchy feature settings
 EXPAND_LATEST_ON_INDEX = True
 OPEN_GRAPH = False
 OPEN_GRAPH_IMAGE = False
@@ -46,3 +45,7 @@ DISPLAY_CATEGORIES_ON_MENU = True
 DISPLAY_TAGS_ON_MENU = True
 
 CC_LICENSE = 'CC-BY-SA-ND-NC'
+
+PLUGINS = [
+    'minchin.pelican.plugins.cname'
+]

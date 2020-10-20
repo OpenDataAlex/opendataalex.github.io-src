@@ -1,6 +1,7 @@
-Title:  Firefox 3 World Record
+Title: Firefox 3 World Record
 Date: 2008-07-06 20:47:14 
-Category:  Firefox, Archive
+Category: Archive
+Tags: Firefox
 
 Just wanted to make a quick post saying congrats to the Mozilla team for successfully hitting the world record for the 
 most software downloads in a 24 hour period, as well as making the most kick-ass browsing experience I've ever had 
